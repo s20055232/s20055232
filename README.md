@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm 賴李瀚, a software engineer major in backend. Live in Taipei, Taiwan.
-- 🔭 I’m currently working on ProfetAI for AutoML product backend development.
+- 🔭 I’m currently working at ProfetAI, focusing on the backend development of an AutoML product.
 - 🌱 I’m currently learning Go, Rust and Clean Code.
 - 💬 Ask me about Everything! Feel Free to contact me.
 - 📫 How to reach me: s20055232@gmail.com
