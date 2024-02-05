@@ -21,4 +21,4 @@ I'm 賴李瀚, a software engineer major in backend. Live in Taipei, Taiwan.
 - 💬 Ask me about Everything! Feel Free to contact me.
 - 📫 How to reach me: s20055232@gmail.com
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/s20055232/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/s20055232/repos?time_range=one_year&theme=dark)](https://githubtrends.io)
