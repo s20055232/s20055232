@@ -24,5 +24,5 @@ I'm 賴李瀚, a software engineer major in backend. Live in Taipei, Taiwan.
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/s20055232/repos?time_range=one_year&theme=dark)](https://githubtrends.io)
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{username}"/>
+  <img src="https://render.gitanimals.org/farms/s20055232"/>
 </a>
